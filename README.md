@@ -5,6 +5,10 @@
 
 Base32 is a [Base32](https://tools.ietf.org/html/rfc4648) implementation for Swift.
 
+## Note
+
+*Everthing is identical to the [original project](https://github.com/norio-nomura/Base32), except the slight modification to the bundle identifier, which is done to address the code signing error **App installation failed - This application’s bundle identifier does not match its code signing identifier.** when deploying on iphone (real device)
+
 ## Requirements
 
 * iOS 8 or later
@@ -19,7 +23,7 @@ Base32 is a [Base32](https://tools.ietf.org/html/rfc4648) implementation for Swi
 Base32 is available through [Carthage](https://github.com/Carthage/Carthage). To install
 it, simply add the following line to your Cartfile:
 
-`github "norio-nomura/Base32"`
+`github "jackkwong/Base32"`
 
 ## Author
 
