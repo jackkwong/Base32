@@ -291,7 +291,7 @@
 				INFOPLIST_FILE = Base32.xcodeproj/Base32_Info.plist;
 				OTHER_LDFLAGS = "$(inherited)";
 				OTHER_SWIFT_FLAGS = "$(inherited)";
-				PRODUCT_BUNDLE_IDENTIFIER = Base32;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.github.norio-nomura.Base32";
 				PRODUCT_MODULE_NAME = "$(TARGET_NAME:c99extidentifier)";
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
 				SWIFT_VERSION = 3.0;
@@ -329,7 +329,7 @@
 				INFOPLIST_FILE = Base32.xcodeproj/Base32_Info.plist;
 				OTHER_LDFLAGS = "$(inherited)";
 				OTHER_SWIFT_FLAGS = "$(inherited)";
-				PRODUCT_BUNDLE_IDENTIFIER = Base32;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.github.norio-nomura.Base32";
 				PRODUCT_MODULE_NAME = "$(TARGET_NAME:c99extidentifier)";
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
 				SWIFT_VERSION = 3.0;
